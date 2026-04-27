@@ -24,4 +24,4 @@ When I’m not at my desk, I’m usually training, watching anime, or working on
 ---
 
 ### 📫 Let's Connect
-* 💼 [LinkedIn]((https://www.linkedin.com/in/samuel-apodaca/))
+* 💼 [LinkedIn](https://www.linkedin.com/in/samuel-apodaca/)
