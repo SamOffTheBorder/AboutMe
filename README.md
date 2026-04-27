@@ -23,10 +23,5 @@ When I’m not at my desk, I’m usually training, watching anime, or working on
 
 ---
 
-### 📈 Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula)
-
----
-
 ### 📫 Let's Connect
 * 💼 [LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/samuel-apodaca/))
