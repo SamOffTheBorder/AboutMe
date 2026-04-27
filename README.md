@@ -6,7 +6,8 @@ I’m a Houston-based developer currently in my second semester of Computer Scie
 ---
 
 ### 🛠️ What I'm Building
-* **MTO Battle Grounds:** A high-intensity combat game built in Luau, inspired by the world of *Mushoku Tensei*. 
+* **MTO Battle Grounds:** A high-intensity combat game built in Luau, inspired by the world of *Mushoku Tensei*.
+* **Prediction Market Auto Trader:** A automated trading bot that finds price discrepancies for profit*. 
 * **Core Focus:** Implementing complex character handlers, health-check visual effects, and optimized physics mechanics.
 * **Calculus & Physics:** Applying multivariable calculus concepts to improve technical problem-solving and engine logic.
 
@@ -20,12 +21,6 @@ I’m a Houston-based developer currently in my second semester of Computer Scie
 ### 🌌 Beyond the Code
 When I’m not at my desk, I’m usually training, watching anime, or working on mechanical projects.
 
-* 📖 **Favorite Book:** *Ready Player One*
-* 🎮 **Favorite Game:** *Minecraft*
-* 🥟 **Favorite Food:** Tamales 
-* 🎃 **Favorite Season:** Halloween
-* 🎨 **Theme:** Purple
-
 ---
 
 ### 📈 Stats
@@ -34,5 +29,4 @@ When I’m not at my desk, I’m usually training, watching anime, or working on
 ---
 
 ### 📫 Let's Connect
-* 💼 [LinkedIn](YOUR_LINKEDIN_URL)
-* 🐦 [Twitter/X](YOUR_TWITTER_URL)
+* 💼 [LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/samuel-apodaca/))
