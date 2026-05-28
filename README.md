@@ -8,7 +8,7 @@ I’m a Houston-based developer currently in my second semester of College. I tr
 ### 🛠️ What I'm Building
 * **MTO Battle Grounds:** A high-intensity combat game built in Luau, inspired by the world of *Mushoku Tensei*.
 * **Prediction Market Auto Trader:** A automated trading bot that finds price discrepancies for profit.
-* **NooLoom:** A proactive, memory-first AI runtime agent that reads/writes directly to a local Markdown vault and intelligently routes tasks across tiered LLM models..
+* **NooLoom:** A proactive, memory-first AI runtime agent that reads/writes directly to a local Markdown vault and intelligently routes tasks across tiered LLM models.
 * **Core Focus:** Implementing complex character handlers, health-check visual effects, and optimized physics mechanics.
 * **Calculus & Physics:** Applying multivariable calculus concepts to improve technical problem-solving and engine logic.
 
