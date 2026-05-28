@@ -1,13 +1,14 @@
 # 👋 Hi, I'm Samuel Apodaca 
 
 ### 🚀 Computer Science Student & Game Developer
-I’m a Houston-based developer currently in my second semester of Computer Science. I treat every project like a "training arc"—constantly leveling up my skills in software architecture and game design.
+I’m a Houston-based developer currently in my second semester of College. I treat every project like a "training arc"—constantly improving my skills in software architecture and game design.
 
 ---
 
 ### 🛠️ What I'm Building
 * **MTO Battle Grounds:** A high-intensity combat game built in Luau, inspired by the world of *Mushoku Tensei*.
-* **Prediction Market Auto Trader:** A automated trading bot that finds price discrepancies for profit*. 
+* **Prediction Market Auto Trader:** A automated trading bot that finds price discrepancies for profit*.
+* **NooLoom:** A proactive, memory-first AI runtime agent that reads/writes directly to a local Markdown vault and intelligently routes tasks across tiered LLM models.*.
 * **Core Focus:** Implementing complex character handlers, health-check visual effects, and optimized physics mechanics.
 * **Calculus & Physics:** Applying multivariable calculus concepts to improve technical problem-solving and engine logic.
 
